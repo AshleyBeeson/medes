@@ -1,0 +1,8 @@
+/bugtracker.zip
+/New/bugtracker.zip
+/New/bugtracker/bugtracker/node_modules/*
+/New/bugtracker/bugtracker/node_modules
+/New/bugtracker/bugtracker/public/node_modules/*
+/New/bugtracker/bugtracker/public/node_modules
+/.vscode
+/bugtracker

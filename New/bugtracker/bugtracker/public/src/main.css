@@ -1,0 +1,136 @@
+.App {
+  text-align: center;
+  background: whiteSmoke;
+}
+
+.App-header {
+  background-color: #222;
+  height: 120px;
+  padding: 30px;
+  color: white;
+}
+
+.App-footer {
+  background-color: #222;
+  height: 80px;
+  padding: 10px;
+  color: white;
+  bottom: 0;
+    width:100%;
+}
+
+.App-return{
+  background-color: #222;
+  height: 80px;
+  padding: 10px;
+  color: white;
+  position: fixed;
+  bottom: 0;
+  width: 90px;
+  opacity: 0.7;
+  border-radius: 5px;
+}
+
+.App-p1 {
+  font-size: large;
+}
+
+.btn-primary{
+    margin: 5px;
+}
+
+.contentContainer{
+    padding: 50px;
+}
+
+.containerSetOut{
+    margin:auto;
+}
+
+.dropdownFilter{
+    width:330px;
+    height: 32px;
+}
+
+.dropdownFilter2{
+    width:104px;
+    height: 32px;
+    margin: 5px;
+}
+
+.dateTag{
+    margin-left: 10px;
+}
+
+.filterSetOut{
+    margin: auto;
+}
+
+.filterSetOut tr td: first-child{
+    width:100px;
+    
+}
+
+input[type=text] {
+    width: 175px;
+}
+
+.searchBar{
+    height: 32px;
+}
+
+.mdl-button {
+    width:10px;
+    height: 35px;
+}
+
+.card{
+    width: 85%;
+    max-width: 550px;
+    margin: auto;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+}
+
+.card-block{
+    text-align: left;
+    padding: 0px;
+}
+
+.card-header{
+    background: #DFF2FF 
+}
+
+
+.card-text{
+    padding-left: 10px;
+    padding-top: 2px;
+}
+
+.container{
+    padding:25px;
+}
+
+label{
+    padding: 5px;
+}
+
+.linkToTop{
+    color: white;
+    font-size: 18px;
+    
+}
+
+.linkToTop:hover { 
+    color: dodgerblue;
+    text-decoration: none;
+}
+
+.setOutBugData{
+    margin: auto;
+}
+
+.setOutBugData td{
+    width: 200px;
+    
+}
