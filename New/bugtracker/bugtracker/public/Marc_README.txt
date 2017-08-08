@@ -12,6 +12,8 @@ Direct yourself to the location of the root folder using the following in comman
 
 Please run 'npm install' in the command line/terminal to install all back-end node modules.
 
+Please run 'npm install mongoose' in the command line/terminal to install Mongoose
+
 Now enter 'npm node bugtrackerSchema', in the command line.
 
 -----------------------------------------------------------------------------
